@@ -1,5 +1,5 @@
-# Decentralized-Anonymous-E-Voting-System.
-✨Hey There this is the Decentralized Crowd Fund Raising System ,a Smart contracts that have been made by Loop Breakers.
+# Decentralized Crowd Funding System.
+✨Hey There this is the Decentralized Crowd Fund Raising System ,a Smart contracts that have been made by Loop Breakers as a submission in Engage Hackathon.
 
 ## Tools Used
 Remix-IDE<br/>
@@ -11,7 +11,7 @@ Solidity Programming
 ## Author
 🧑‍Team Loopbreakers: Apoorva Mehta, Jinit Raval, Yashvi Patel<br/>
 LinkedIn : https://www.linkedin.com/in/apoorva-mehta-92655421a/<br/>
-https://github.com/apoorva1823000
+GitHub: https://github.com/apoorva1823000
 
 ## Show Your Support
 Give a ⭐️ if you like this project!
